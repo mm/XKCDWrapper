@@ -32,3 +32,9 @@ Works almost the same way as getting by ID, except use *getRandomComicWithComple
     }];
     
 It'll return the same XKCDComic object as the previous method.  
+
+## License
+
+This is under the MIT License (see the LICENSE file)-- enjoy, and build cool stuff!
+
+Data is provided by [XKCD](http://xkcd.com/). Give attribution wherever you use comics.
