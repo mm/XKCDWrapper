@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A7271E4E-56B1-4F27-8A00-3C4213169C05</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XKCDWrapper</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D8BC630A-C367-4E4C-A579-1981BFE7E807</key>
+		<string>https://github.com/mm/XKCDWrapper.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XKCDWrapper.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D8BC630A-C367-4E4C-A579-1981BFE7E807</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mm/XKCDWrapper.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D8BC630A-C367-4E4C-A579-1981BFE7E807</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D8BC630A-C367-4E4C-A579-1981BFE7E807</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XKCDWrapper</string>
+		</dict>
+	</array>
+</dict>
+</plist>

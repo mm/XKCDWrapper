@@ -1,6 +1,6 @@
 # XKCDWrapper
 
-I've always enjoyed reading the hilarious comics from [XKCD](http://xkcd.com/). There's actually a little [API](http://xkcd.com/json.html) to access these comics, so I felt like messing around and made a little Objective-C wrapper to access them easily in your iPhone applications. 
+I've always enjoyed reading the hilarious comics from [xkcd](http://xkcd.com/). There's actually a little [API](http://xkcd.com/json.html) to access these comics, so I felt like messing around and made a little Objective-C wrapper to access them easily in your iPhone applications. 
 
 ## Requirements
 * Xcode 5.0 or higher
@@ -37,4 +37,4 @@ It'll return the same XKCDComic object as the previous method.
 
 This is under the MIT License (see the LICENSE file)-- enjoy, and build cool stuff!
 
-Data is provided by [XKCD](http://xkcd.com/). Give attribution wherever you use comics.
+Data is provided by [xkcd](http://xkcd.com/). Give attribution wherever you use comics.

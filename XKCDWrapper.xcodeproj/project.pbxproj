@@ -20,7 +20,6 @@
 		8DE82F63190C11F40046629C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8DE82F61190C11F40046629C /* InfoPlist.strings */; };
 		8DE82F65190C11F40046629C /* XKCDWrapperTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8DE82F64190C11F40046629C /* XKCDWrapperTests.m */; };
 		8DE82F78190C19AE0046629C /* DemoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8DE82F77190C19AE0046629C /* DemoViewController.m */; };
-		8DE82F7A190C21F50046629C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8DE82F79190C21F50046629C /* README.md */; };
 		8DE82F80190C26980046629C /* XKCDComic.m in Sources */ = {isa = PBXBuildFile; fileRef = 8DE82F7D190C26980046629C /* XKCDComic.m */; };
 		8DE82F81190C26980046629C /* XKCDWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 8DE82F7F190C26980046629C /* XKCDWrapper.m */; };
 /* End PBXBuildFile section */
@@ -54,7 +53,6 @@
 		8DE82F64190C11F40046629C /* XKCDWrapperTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XKCDWrapperTests.m; sourceTree = "<group>"; };
 		8DE82F76190C19AE0046629C /* DemoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoViewController.h; sourceTree = "<group>"; };
 		8DE82F77190C19AE0046629C /* DemoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoViewController.m; sourceTree = "<group>"; };
-		8DE82F79190C21F50046629C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		8DE82F7C190C26980046629C /* XKCDComic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XKCDComic.h; sourceTree = "<group>"; };
 		8DE82F7D190C26980046629C /* XKCDComic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XKCDComic.m; sourceTree = "<group>"; };
 		8DE82F7E190C26980046629C /* XKCDWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XKCDWrapper.h; sourceTree = "<group>"; };
@@ -121,7 +119,6 @@
 				8DE82F75190C19850046629C /* DemoCode */,
 				8DE82F51190C11F40046629C /* Images.xcassets */,
 				8DE82F46190C11F40046629C /* Supporting Files */,
-				8DE82F79190C21F50046629C /* README.md */,
 			);
 			path = XKCDWrapper;
 			sourceTree = "<group>";
@@ -253,7 +250,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8DE82F7A190C21F50046629C /* README.md in Resources */,
 				8DE82F4A190C11F40046629C /* InfoPlist.strings in Resources */,
 				8DE82F52190C11F40046629C /* Images.xcassets in Resources */,
 			);
